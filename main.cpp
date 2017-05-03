@@ -1,10 +1,7 @@
 #include <iostream>
 #include <vector>
-#include <algorithm>
 #include <stdio.h>
 #define size 10
-using namespace std;
-
 
 using namespace std;
 
